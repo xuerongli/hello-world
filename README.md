@@ -1,3 +1,6 @@
 # hello-world
-hello world for github
-2017
+
+Learn github's use. Thanks.
+
+2017-3-16
+
